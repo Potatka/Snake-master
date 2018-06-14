@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Snake-master">
+    <output-path>$PROJECT_DIR$/out/artifacts/Snake_master</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="Sneiku desu ne" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Snake_master.jar">
+        <element id="module-output" name="Snake-master" />
+      </element>
+    </root>
+  </artifact>
+</component>
